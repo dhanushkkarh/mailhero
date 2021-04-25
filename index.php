@@ -1,5 +1,5 @@
 <?php
 
-include_once("lindex");
+include_once("lindex.html");
 
 ?>
